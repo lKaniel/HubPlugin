@@ -1,0 +1,8 @@
+name: HubPlugin
+version: ${project.version}
+main: com.timewars.hubplugin.HubPlugin
+api-version: 1.13
+depend: [WorldEdit]
+authors: [Kaniel]
+description: Hub plugin for timewars server
+website: timewars.online
